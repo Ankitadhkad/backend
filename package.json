@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "this is basic project ",
+  "main": "math.js",
+  "scripts": {
+    "start": "node math.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "ankita",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
